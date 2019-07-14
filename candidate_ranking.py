@@ -2,7 +2,7 @@
 """
 Created on Sun Jul 14 01:46:56 2019
 
-@author: Waqas
+@author: Indrit
 """
 import spacy;
 from fuzzywuzzy import fuzz;
